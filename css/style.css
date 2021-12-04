@@ -136,6 +136,7 @@ button:hover{
 @media only screen and (max-width: 1000px){
     .feauters img {width: 80%;}
     .card0 {width: 80%;}
+    .container{width: 75%;}
 }
 .qouteBuffer{
     height: 13rem;
